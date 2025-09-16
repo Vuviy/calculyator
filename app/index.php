@@ -144,7 +144,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             align-items: center;
             justify-content: center;
             font-family: 'Segoe UI', sans-serif;
-            background: linear-gradient(-45deg, #0d1b2a, #1b263b, #3a0ca3, #e63946);
+            background: linear-gradient(-45deg, #060d16, #0e1625, #2a0670, #8b1d24);
+            /*background: linear-gradient(-45deg, #0d1b2a, #1b263b, #3a0ca3, #e63946);*/
             background-size: 400% 400%;
             animation: gradientBG 15s ease infinite;
             color: #fff;
